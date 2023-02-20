@@ -40,8 +40,8 @@
                     <h1 class="fw-light">Welcome to TeavelInc !</h1>
                     <p class="lead text-muted">Plan your trip with us and feel the best experience. Low price, High quality trip, best hotel. Enjoy !</p>
                     <p>
-                        <a href="#" class="btn btn-primary my-2">Book Now</a>
-                        <a href="#" class="btn btn-secondary my-2">Plan</a>
+                        <a href="/login" class="btn btn-primary my-2">Login</a>
+                        <a href="/register" class="btn btn-secondary my-2">Register</a>
                     </p>
                 </div>
             </div>
