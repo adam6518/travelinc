@@ -6,7 +6,8 @@
             <main class="form-registration w-100 m-auto">
                 <h1 class="h3 mb-3 fw-normal text-center">Welcome to TravelInc</h1>
                 <h6 class="h3 mb-3 fw-normal text-center">Register Here !</h6>
-                <form action="/action" method="post">
+                <form action="/register" method="post">
+                    @csrf
                     <div class="form-floating">
                         <input type="text" class="form-control" id="floatingInput" placeholder="Input your name here">
                         <label for="floatingInput">Name</label>
